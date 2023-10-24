@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CALCU</string>
+    <string name="dot">.</string>
+    <string name="clear">CLEAR</string>
+</resources>
